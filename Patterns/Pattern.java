@@ -4,7 +4,7 @@ public class Pattern
     public static void main(String []args)
     {
         Scanner input=new Scanner(System.in);
-        //Email: garimaanand27@gmail.com shoorjuhi@gmail.com
+       
         
         int j,i;
         int n,k=1,t;
