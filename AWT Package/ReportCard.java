@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.awt.*;
 import java.awt.event.*;
-class Main extends Frame implements ActionListener
+class ReportCard extends Frame implements ActionListener
 {
 	
 	Label LStudentName,LFatherName,LMothernName,LRollNumber;
