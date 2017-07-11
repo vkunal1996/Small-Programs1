@@ -1,0 +1,3 @@
+https://www.linode.com/docs/databases/mysql/install-mysql-on-ubuntu-14-04
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysqlhttps://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql
